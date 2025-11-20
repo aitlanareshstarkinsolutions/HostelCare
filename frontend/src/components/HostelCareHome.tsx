@@ -145,7 +145,7 @@ export function HostelCareHome() {
           <p className="text-sm text-[#1A1A1A] leading-relaxed">
             For more details, please review our{" "}
             <a
-              href="/privacy-policy"
+              href="/privacy"
               className="text-[#1B6CA8] underline underline-offset-2"
             >
               Privacy Policy
