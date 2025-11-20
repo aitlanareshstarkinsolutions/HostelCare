@@ -4,16 +4,16 @@ export function HostelCareHome() {
   return (
     <div className="min-h-screen bg-white">
       {/* Top Header */}
-      <header className="bg-[#E8F5FF] border-b border-gray-200">
+      <header className="bg-[#1B6CA8] border-b border-gray-200">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10 sm:py-14">
           <div className="text-center">
-            <h1 className="text-3xl sm:text-4xl font-semibold text-[#1B6CA8] mb-3">
+            <h1 className="text-3xl sm:text-4xl font-semibold text-white mb-3">
               HostelCare
             </h1>
-            <p className="text-sm tracking-wide text-[#1B6CA8] mb-3">
+            <p className="text-sm tracking-wide text-white mb-3">
               SIMPLE HOSTEL ISSUE MANAGEMENT
             </p>
-            <p className="text-[#1A1A1A] max-w-2xl mx-auto leading-relaxed">
+            <p className="text-white max-w-2xl mx-auto leading-relaxed">
               A clean and minimal app for hostel and PG owners to manage guest
               complaints across multiple locations, and for guests to report
               issues without any login.

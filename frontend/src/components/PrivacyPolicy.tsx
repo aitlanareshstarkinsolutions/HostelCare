@@ -58,10 +58,10 @@ export function PrivacyPolicy() {
   return (
     <div className="min-h-screen bg-white">
       {/* Header */}
-      <div className="bg-[#E8F5FF] border-b border-gray-200">
+      <div className="bg-[#1B6CA8] border-b border-gray-200">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 sm:py-16 text-center">
-          <h1 className="text-[#1B6CA8] tracking-wider mb-3 font-semibold">PRIVACY POLICY</h1>
-          <p className="text-[#1A1A1A]">Last Updated: November 20, 2025</p>
+          <h1 className="text-white tracking-wider mb-3 font-semibold">PRIVACY POLICY</h1>
+          <p className="text-white">Last Updated: November 20, 2025</p>
         </div>
       </div>
 
@@ -293,10 +293,10 @@ export function PrivacyPolicy() {
                 <p className="text-[#1A1A1A] leading-relaxed">
                   For deletion requests: 📧{" "}
                   <a
-                    href="mailto:support@hostelcare.store"
+                    href="mailto:hostelcareapps@gmail.com"
                     className="text-[#1B6CA8] hover:underline"
                   >
-                    support@hostelcare.store
+                    hostelcareapps@gmail.com
                   </a>
                 </p>
               </section>
@@ -362,10 +362,10 @@ export function PrivacyPolicy() {
                   <p>
                     📧{" "}
                     <a
-                      href="mailto:support@hostelcare.store"
+                      href="mailto:hostelcareapps@gmail.com"
                       className="text-[#1B6CA8] hover:underline"
                     >
-                      support@hostelcare.store
+                      hostelcareapps@gmail.com
                     </a>
                   </p>
                   <p>📍 HostelCare Application</p>
