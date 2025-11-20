@@ -298,10 +298,10 @@ export function TermsConditions() {
                   <p>
                     📧{" "}
                     <a
-                      href="mailto:your-support-email@example.com"
+                      href="mailto:hostelcareapps@gmail.com"
                       className="text-[#1B6CA8] hover:underline"
                     >
-                      your-support-email@example.com
+                      hostelcareapps@gmail.com
                     </a>
                   </p>
                 </div>

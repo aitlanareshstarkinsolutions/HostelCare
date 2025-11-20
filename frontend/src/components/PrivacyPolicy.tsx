@@ -293,10 +293,10 @@ export function PrivacyPolicy() {
                 <p className="text-[#1A1A1A] leading-relaxed">
                   For deletion requests: 📧{" "}
                   <a
-                    href="mailto:your-support-email@example.com"
+                    href="mailto:hostelcareapps@gmail.com"
                     className="text-[#1B6CA8] hover:underline"
                   >
-                    your-support-email@example.com
+                    hostelcareapps@gmail.com
                   </a>
                 </p>
               </section>
@@ -362,10 +362,10 @@ export function PrivacyPolicy() {
                   <p>
                     📧{" "}
                     <a
-                      href="mailto:your-support-email@example.com"
+                      href="mailto:hostelcareapps@gmail.com"
                       className="text-[#1B6CA8] hover:underline"
                     >
-                      your-support-email@example.com
+                      hostelcareapps@gmail.com
                     </a>
                   </p>
                   <p>📍 HostelCare Application</p>
