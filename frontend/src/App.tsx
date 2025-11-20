@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { PrivacyPolicy } from "./components/PrivacyPolicy.tsx";
 import { TermsConditions } from "./components/TermsConditions.tsx";
-
+import {HostelCareHome} from "./components/HostelCareHome.tsx"
 export default function App() {
   const [currentRoute, setCurrentRoute] = useState("");
 
@@ -23,7 +23,7 @@ export default function App() {
       case "/terms-conditions":
         return <TermsConditions />;
       default:
-        return <PrivacyPolicy />;
+        return <HostelCareHome />;
     }
   };
 
