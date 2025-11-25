@@ -125,7 +125,6 @@ export function PrivacyPolicy() {
                     <ul className="list-disc list-inside space-y-2 text-[#1A1A1A] ml-4 leading-relaxed">
                       <li>Guest Name (entered once at app start)</li>
                       <li>Complaints submitted by the guest</li>
-                      <li>Optional photos uploaded with complaints</li>
                       <li>Joined hostel information</li>
                     </ul>
                     
@@ -193,7 +192,6 @@ export function PrivacyPolicy() {
                       <li>To submit complaints</li>
                       <li>To show complaint history</li>
                       <li>To show your name in admin dashboard</li>
-                      <li>To attach photos to the complaint</li>
                     </ul>
                   </div>
 
@@ -265,7 +263,6 @@ export function PrivacyPolicy() {
                   <ul className="list-disc list-inside space-y-2 text-[#1A1A1A] ml-4 leading-relaxed">
                     <li>Admin passwords encrypted</li>
                     <li>Complaint data securely stored</li>
-                    <li>Photos stored securely</li>
                     <li>No plain-text sensitive information</li>
                     <li>HTTPS-secured communication</li>
                   </ul>
